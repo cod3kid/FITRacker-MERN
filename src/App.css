@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.hello{
+  width: 100%;
+  background-image: url("bg2.jpg");
+  background-size: cover;
+  height: 601px;
+}
+
